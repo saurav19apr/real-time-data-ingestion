@@ -1,21 +1,21 @@
 ## Azure Purview Data Governance Project
 
-#### Project Description
+### Project Description
 This repository contains the source code and documentation for a two-part series focusing on data governance using Azure Purview. This project is centered around the management and regulation of data across various environments, including on-premises, multi-cloud, and SaaS, through Azure Purview.
 
-#### Business Overview
+### Business Overview
 Azure Purview provides a unified data governance solution that automates data discovery, sensitive data categorization, and data lineage creation. This allows for a holistic, up-to-date map of your data landscape, aiding data curators and consumers in managing and finding reliable data.
 
-#### Data Pipeline
+### Data Pipeline
 The data pipeline includes steps from harvesting data to transforming it into a format ready for analysis. This project uses Azure services to handle data in real-time and batch processing modes, ensuring efficient data management across platforms.
 
-#### Agenda
+### Agenda
 Part 1: Data ingestion and preparation using Azure Logic Apps, Azure Storage Account, Azure Data Factory, and Azure SQL Databases.
 Part 2: Data consumption and analysis utilizing the capabilities of Azure Purview.
 Dataset Description
 This project uses hospital data consisting of 30 unique fields, including:
 
-#### Hospital Name
+### Hospital Name
 Address
 
 Hospital Type
@@ -42,7 +42,7 @@ DBeaver
 
 Azure Purview
 
-#### Key Steps
+### Key Steps
 1.Create a Resource Group: Organize all related services under a single resource group for better management.
 
 2.Set Up Dropbox Account: Use Dropbox for initial data storage and updates.
